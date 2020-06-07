@@ -43,7 +43,8 @@ module.exports = {
       "@semantic-release/git",
       {
         "assets": [
-          "composer.json",
+          "version.ts",
+          "mod.ts",
           "src/*",
           "UPGRADE.md",
           "LICENSE.md",
