@@ -17,7 +17,7 @@ module.exports = {
             ],
             "from": 'const VERSION = ".*"',
             "to":
-              'const VERSION = "${nextRelease.version.replace(/\\.\\w+$/, \'-dev\')}"',
+              'const VERSION = "${nextRelease.version}"',
             "results": [
               {
                 "file": "version.ts",
