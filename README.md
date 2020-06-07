@@ -23,9 +23,9 @@ Vary is based on [vary](https://www.npmjs.com/package/vary) and has been ported 
 Use the following import:
 
 ```
-const { vary } = "https://raw.githubusercontent.com/dmpjs/vary/master/mod.ts"; // import from github as raw data
+import { vary } from "https://raw.githubusercontent.com/dmpjs/vary/master/mod.ts"; // import from github as raw data
 
-const { vary } = "https://deno.land/x/vary/mod.ts"; // If module is uploaded into deno.land
+import { vary } from "https://deno.land/x/vary/mod.ts"; // If module is uploaded into deno.land
 ```
 
 ## Usage
