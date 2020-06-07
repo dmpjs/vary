@@ -16,7 +16,7 @@
 
 Manipulate the HTTP Vary header.
 
-vary is based on [vary](https://www.npmjs.com/package/vary) and has been ported for use on Deno
+Vary is based on [vary](https://www.npmjs.com/package/vary) and has been ported for use on Deno
 
 ## Installation
 
@@ -30,7 +30,7 @@ const { vary } = "https://deno.land/x/vary/mod.ts"; // If module is uploaded int
 
 ## Usage
 
-### vary(responseHeadersGet, responseHeadersSet, field)
+### Vary(responseHeadersGet, responseHeadersSet, field)
 
 Adds the given header field to the Vary response header of response. This can be a string of a single field, a string of a valid Vary header, or an array of multiple fields.
 
@@ -50,7 +50,7 @@ vary(
 )
 ```
 
-## append(header, field)
+## Append(header, field)
 
 Adds the given header field to the Vary response header string header. This can be a string of a single field, a string of a valid Vary header, or an array of multiple fields.
 
