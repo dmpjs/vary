@@ -1,3 +1,11 @@
+### [1.0.1](https://github.com/dmpjs/vary/compare/v1.0.0...v1.0.1) (2020-06-07)
+
+
+### Bug Fixes
+
+* fixed workflow badge ([f40733a](https://github.com/dmpjs/vary/commit/f40733a21d9affa75719e25f37ed8cce1070f845))
+* removed version replace on version.ts ([c647faa](https://github.com/dmpjs/vary/commit/c647faa999438641c55f11e4d1a00ffc109f1f11))
+
 ## 1.0.0 (2020-06-07)
 
 
