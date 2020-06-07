@@ -1,3 +1,10 @@
+### [1.0.3](https://github.com/dmpjs/vary/compare/v1.0.2...v1.0.3) (2020-06-07)
+
+
+### Bug Fixes
+
+* fixed readme Installation section ([32031da](https://github.com/dmpjs/vary/commit/32031dad2466b169f440cb726eb17fb8b3b53efd))
+
 ### [1.0.2](https://github.com/dmpjs/vary/compare/v1.0.1...v1.0.2) (2020-06-07)
 
 
