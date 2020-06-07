@@ -104,4 +104,4 @@ repository:
 
   # https://developer.github.com/v3/repos/branches/#remove-branch-protection
 
-  topics: "deno, module, library, template, dmpjs, linux, macos, windows"
+  topics: "deno, module, drash, vary"

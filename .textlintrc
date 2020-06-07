@@ -33,6 +33,7 @@
     "write-good": {
       "passive": false,
       "eprime": false,
+      "tooWordy": false
     },
     "common-misspellings": true,
     "terminology": {

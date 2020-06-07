@@ -1,7 +1,2 @@
-export function greeting(str?: string): string {
-  if (str) {
-    return `Hello ${str}`;
-  } else {
-    throw new Error("Please provide an input");
-  }
-}
+export { append } from "./src/append.ts";
+export { vary } from "./src/vary.ts";
