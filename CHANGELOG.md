@@ -1,3 +1,11 @@
+### [1.0.2](https://github.com/dmpjs/vary/compare/v1.0.1...v1.0.2) (2020-06-07)
+
+
+### Bug Fixes
+
+* changed description for github ([69d8263](https://github.com/dmpjs/vary/commit/69d826357a601facf66a3ccf748b1344befe78c2))
+* removed topic from github ([11d1f12](https://github.com/dmpjs/vary/commit/11d1f1265370beb80276cec9183e4928387d8ac5))
+
 ### [1.0.1](https://github.com/dmpjs/vary/compare/v1.0.0...v1.0.1) (2020-06-07)
 
 
