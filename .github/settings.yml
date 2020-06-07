@@ -104,4 +104,4 @@ repository:
 
   # https://developer.github.com/v3/repos/branches/#remove-branch-protection
 
-  topics: "deno, module, drash, vary"
+  topics: "deno, module, vary"
