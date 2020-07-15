@@ -1,3 +1,10 @@
+## [1.1.0](https://github.com/dmpjs/vary/compare/v1.0.3...v1.1.0) (2020-07-15)
+
+
+### Features
+
+* upgraded deno std to v0.61.0 and deno to v1.2.0 ([50b893b](https://github.com/dmpjs/vary/commit/50b893b974e39021efc2b2d744b3fc7c90cee9df))
+
 ### [1.0.3](https://github.com/dmpjs/vary/compare/v1.0.2...v1.0.3) (2020-06-07)
 
 
